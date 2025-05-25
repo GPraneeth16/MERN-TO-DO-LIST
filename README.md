@@ -1,10 +1,7 @@
 # 🌟MERN Todo App
 # 🌟 MERN Todo App
 
-![GitHub repo size](https://img.shields.io/github/repo-size/GPraneeth16/mern-todo-app)
-![GitHub issues](https://img.shields.io/github/issues/GPraneeth16/mern-todo-app)
-![GitHub license](https://img.shields.io/github/license/GPraneeth16/mern-todo-app)
-![GitHub last commit](https://img.shields.io/github/last-commit/GPraneeth16/mern-todo-app)
+
 
 A simple and efficient **Todo List** application built using the **MERN stack**:  
 **MongoDB**, **Express.js**, **React.js**, and **Node.js**.  
